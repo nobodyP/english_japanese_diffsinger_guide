@@ -83,4 +83,6 @@ copy and paste this however many times you need. the "before" is the starting ph
 when making a multilanguage model, it is important to
   1. keep different phonemes separate so as to not cause bleed between phonemes
   2. keep identical phonemes together so as to not spread out the dataset as much as possible
+  3. change the phonemes in the dictionary
 
+anyways yeah that's pretty much it go crazy.
